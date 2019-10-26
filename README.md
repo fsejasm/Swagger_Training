@@ -16,11 +16,8 @@ Installation
 --------------
 
 1.  Execute the following commands:
-	* git clone https://github.com/swagger-api/swagger-editor.git
-    * cd swagger-editor
-    * npm install
-    * npm run build
-    * npm start
+	* npm i swagger-editor-open -g
+	* swagger-editor-open
 
 
 Starting Swagger
